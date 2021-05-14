@@ -1,5 +1,5 @@
-public class Point3D {
+public class Point3D extends Point {
 	
-	private int x,y;
+	private int z;
 	
 }
